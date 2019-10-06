@@ -1,0 +1,8 @@
+= 2019年9月レク大山登山女坂編
+
+== 登り
+include::nobori.adoc
+== 下り
+include::kudari.adoc
+== 振り返り
+include::furikaeri.adoc
